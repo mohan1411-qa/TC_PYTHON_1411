@@ -202,29 +202,4 @@ def start_game():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-test_board = ['#','X','O',' ','O','X','O','X','O','X']
-# display_board(test_board)
-# player_1, player_2 = player_input()
-# place_marker(test_board,'X',8)
-# display_board(test_board)
-# status = win_check(test_board, 'X')
-# print(status)
-# chance = choose_first()
-# print(chance)
-# status = full_board_check(test_board)
-# print(status)
 start_game()
